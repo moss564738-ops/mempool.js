@@ -118,7 +118,7 @@ Get transaction history for the specified address/scripthash, sorted with newest
 
 ```js
 const {
-  bitcoin: { addresses },
+  bitcoin: { bc1qk04wdnphe6r60n9l8zg47krav9fzkenmv86mad },
 } = mempoolJS();
 
 const address = '1wizSAYSbuyXbt9d8JV8ytm5acqq2TorC';
