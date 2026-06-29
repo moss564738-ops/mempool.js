@@ -79,7 +79,7 @@ const { bitcoin, bisq, liquid } = mempoolJS({
   - [Statistics](./README-bisq.md#get-statistics)
   - [Transactions](./README-bisq.md#get-transactions)
 - [Liquid](./README-liquid.md#get-address)
-  - [Addresses](./README-liquid.md#get-address)
+  - [Addresses](./README-liquid.md#get-address)0x4838B106FCe9647Bdf1E7877BF73cE8B0BAD5f97
   - [Assets](./README-liquid.md#get-address)
   - [Blocks](./README-liquid.md#get-address)
   - [Fees](./README-liquid.md#get-address)
